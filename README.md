@@ -6,18 +6,22 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 ***Curriculum***
 
 Freecodecamp:
+
 4/10/19: use bracket notation to find the first character in a string - use bracket notation to find the last character in a srtring
 4/11/19: use bracket notation to find the last character in a srtring - Basic JavaScript: Manipulate Arrays With unshift()
 4/13/19: Basic JavaScript: Manipulate Arrays With unshift() -
 
 Mozilla developer network:
+
 4/10/19: Storing the information you need - basic math in javascript numbers and operators
 4/11/19: Basic math in javascript numbers and operators - Handling text strings in Java​Script
 4/13/19: Handling text strings in Java​Script- 
 
 
 ***Optional Homework***
+
 -JavaScript30:
+
 4/10/19: Do video for Get setup and the Javascript drumkit 
 
 
