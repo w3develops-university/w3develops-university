@@ -7,7 +7,7 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 
 
-| FreeCodeCamp        |    starting challenge       |  finished challenge  |
+| FreeCodeCamp        |    Starting Challenge       |  Finished Challenge  |
 | ------------- |:-------------:| -----:|
 | 4/10/19:     | use bracket notation to find the first character in a string | use bracket notation to find the last character in a srtring |
 | 4/11/19:    | use bracket notation to find the last character in a srtring      |   Basic JavaScript: Manipulate Arrays With unshift() |
@@ -15,7 +15,7 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 
 
-| Mozilla developer network       | article started          | article completed  |
+| Mozilla Developer Network       | Article Started          | Article Completed  |
 | ------------- |:-------------:| -----:|
 | 4/10/19      | Storing the information you need | basic math in javascript numbers and operators |
 | 4/11/19    | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
@@ -23,6 +23,11 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 
 
+| Optional Homework        |            |   |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ***Optional Homework***
 
 -JavaScript30:
