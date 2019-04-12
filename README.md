@@ -49,21 +49,31 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 |  10 Days of JavaScript|To Do  | Points|
 | ------------- |:-------------:| -----:|
-| Everyday      | Write 1 hour of code      | 1pt per day 2 pts per day if you push to GitHub   |
+| Everyday      | Write 1 hour of code      | 1 pt per day or 2 pts per day if you push to GitHub   |
+
 
 
 ***Software to download***
--Vs code editor -extensions: live server extension & waka extension
--Zoom (for the study group meetups)
--Discord (for talking to people when not on zoom)
--Streamlabs or obs (video recording software to record the meetups and go live)
--Chrome or firefox 
+
+
+|  Software | Link | |
+| ------------- |:-------------:| -----:|
+|     Vs code editor -extensions: live server extension & waka extension  | https://code.visualstudio.com/      |   |
+|     Zoom (to host study group meetings)  | https://zoom.us/      |   |
+|     Discord (for talking to people when not on zoom)  | http://discordapp.com/      |   |
+|     Streamlabs or obs (video recording software to record the meetups and go live) | windows: https://streamlabs.com/  mac: https://obsproject.com/      |   |
+|     Chrome or firefox  | firefox: https://www.mozilla.org/en-US/firefox/   chrome: https://www.google.com/chrome/browser/ |  |
 
 
 ***Also***
+
+
 -Join the w3Develops University Organization (send me an email at w3develops@gmail.com requesting access to the university organization and i will grant you access and you will push your study group projects their)
 
 
 ***In the beginning of every study group***
+
+
 -Have a blank vs code window open with a new project folder open inside your project folder thats on your desktop
+
 -Have mozilla developer network and freecodecamp open in a browser
