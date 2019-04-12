@@ -7,40 +7,49 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 
 
-| FreeCodeCamp        |    Starting Challenge       |  Finished Challenge  |
+| FreeCodeCamp  | Starting Challenge | Finished Challenge  |
 | ------------- |:-------------:| -----:|
-| 4/10/19:     | use bracket notation to find the first character in a string | use bracket notation to find the last character in a srtring |
-| 4/11/19:    | use bracket notation to find the last character in a srtring      |   Basic JavaScript: Manipulate Arrays With unshift() |
-| 4/13/19: | Basic JavaScript: Manipulate Arrays With unshift()      |    tbc |
+| 4/10/19: | use bracket notation to find the first character in a string | use bracket notation to find the last character in a srtring |
+| 4/11/19: | use bracket notation to find the last character in a srtring | Basic JavaScript: Manipulate Arrays With unshift() |
+| 4/13/19: | Basic JavaScript: Manipulate Arrays With unshift() |    tbc |
 
 
 
-| Mozilla Developer Network       | Article Started          | Article Completed  |
+| Mozilla Developer Network| Article Started| Article Completed  |
 | ------------- |:-------------:| -----:|
-| 4/10/19      | Storing the information you need | basic math in javascript numbers and operators |
-| 4/11/19    | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
-| 4/13/19 | Handling text strings in Java​Script      |    tbc |
+| 4/10/19       | Storing the information you need | basic math in javascript numbers and operators |
+| 4/11/19       | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
+| 4/13/19       | Handling text strings in Java​Script| tbc |
 
 
-
-| Optional Homework        |            |   |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 ***Optional Homework***
 
--JavaScript30:
 
-4/10/19: Do video for Get setup and the Javascript drumkit 
+|  JavaScript30 |     To Do     | Points|
+| ------------- |:-------------:| -----:|
+| 4/10/19       | Get setup     | 1pt   |
+| 4/11/19       |drumkit proj   | 2pt   |
+| 4/13/19       | are neat      | 2pt   |
 
 
--10 Days of JavaScript:
-4/10/19: Watch Day 0 video
+|  10 Days of JavaScript|To Do  | Points|
+| ------------- |:-------------:| -----:|
+| 4/10/19 | complete day 0      | 1pt   |
+| 4/11/19 | complete day 1      |   2pt |
+| 4/13/19 | complete day 2      |   2pt |
+| 4/13/19 | complete day 3      |   2pt |
+| 4/13/19 | complete day 4      |   2pt |
+| 4/13/19 | complete day 5      |   2pt |
+| 4/13/19 | complete day 6      |   2pt |
+| 4/13/19 | complete day 7      |   2pt |
+| 4/13/19 | complete day 8      |   2pt |
+| 4/13/19 | complete day 9      |   2pt |
+| 4/13/19 | complete day 10     |   2pt |
 
 
--100daysofcode:
-All month: write 1 hour of code a day & push to GitHub
+|  10 Days of JavaScript|To Do  | Points|
+| ------------- |:-------------:| -----:|
+| Everyday      | Write 1 hour of code      | 1pt per day 2 pts per day if you push to GitHub   |
 
 
 ***Software to download***
