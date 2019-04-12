@@ -14,7 +14,9 @@ Freecodecamp:
 Mozilla developer network:
 
 4/10/19: Storing the information you need - basic math in javascript numbers and operators
+
 4/11/19: Basic math in javascript numbers and operators - Handling text strings in Java​Script
+
 4/13/19: Handling text strings in Java​Script- 
 
 
