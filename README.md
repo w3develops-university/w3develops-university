@@ -60,6 +60,8 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 
 
 ***Projects***
+
+
 |  Display variables in HTML that are determined by Javascript|To Do  | Points|
 | ------------- |:-------------:| -----:|
 | Day 1 | Use your text editor to complete this challenge  | 2pt   |
