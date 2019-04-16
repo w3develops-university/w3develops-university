@@ -11,15 +11,22 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | ------------- |:-------------:| -----:|
 | 4/10/19: | use bracket notation to find the first character in a string | use bracket notation to find the last character in a srtring |
 | 4/11/19: | use bracket notation to find the last character in a srtring | Basic JavaScript: Manipulate Arrays With unshift() |
-| 4/13/19: | Basic JavaScript: Manipulate Arrays With unshift() |    tbc |
-
+| 4/12/19: | Basic JavaScript: Manipulate Arrays With unshift() |    Handeling Text String in JavaScript |
+| 4/15/19: | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19: | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19: | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19: | Handeling Text String in JavaScript |  TBC  |
 
 
 | Mozilla Developer Network| Article Started| Article Completed  |
 | ------------- |:-------------:| -----:|
 | 4/10/19       | Storing the information you need | basic math in javascript numbers and operators |
 | 4/11/19       | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
-| 4/13/19       | Handling text strings in Java​Script| tbc |
+| 4/13/19       | Handling text strings in Java​Script| TBC |
+| 4/15/19:      | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19:      | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19:      | Handeling Text String in JavaScript |  TBC  |
+| 4/15/19:      | Handeling Text String in JavaScript |  TBC  |
 
 
 ***Optional Homework***
