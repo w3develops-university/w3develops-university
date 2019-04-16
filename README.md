@@ -23,7 +23,7 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | 4/10/19       | Storing the information you need | basic math in javascript numbers and operators |
 | 4/11/19       | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
 | 4/15/19       | Handling text strings in JavaScript| TBC |
-| 4/15/19:      | tbc |  TBC  |
+| 4/15/19:      | tbc |  TBC  | 
 | 4/15/19:      | tbc |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
