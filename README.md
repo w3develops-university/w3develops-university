@@ -12,7 +12,7 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | 4/10/19: | use bracket notation to find the first character in a string | use bracket notation to find the last character in a srtring |
 | 4/11/19: | use bracket notation to find the last character in a string | Basic JavaScript: Manipulate Arrays With unshift() |
 | 4/12/19: | Basic JavaScript: Manipulate Arrays With unshift() |    tbc |
-| 4/15/19: | tbc |  TBC  |
+| 4/17/19: | Shopping |  TBC  |
 | 4/15/19: | tbc |  TBC  |
 | 4/15/19: | tbc |  TBC  |
 | 4/15/19: | tbc |  TBC  |
@@ -22,9 +22,9 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | ------------- |:-------------:| -----:|
 | 4/10/19       | Storing the information you need | basic math in javascript numbers and operators |
 | 4/11/19       | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
-| 4/15/19       | Handling text strings in JavaScript| TBC |
-| 4/15/19:      | tbc |  TBC  | 
-| 4/15/19:      | tbc |  TBC  |
+| 4/15/19       | Handling text strings in JavaScript| TBC | Useful string Methods
+| 4/16/19:      | Userful String Methods |  Arrays  | 
+| 4/15/19:      | Arrays |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
 
