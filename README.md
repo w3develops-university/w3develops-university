@@ -22,8 +22,8 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | ------------- |:-------------:| -----:|
 | 4/10/19       | Storing the information you need | basic math in javascript numbers and operators |
 | 4/11/19       | Basic math in javascript numbers and operators      |    Handling text strings in Java​Script |
-| 4/15/19       | Handling text strings in JavaScript| TBC | Useful string Methods
-| 4/16/19:      | Userful String Methods |  Arrays  | 
+| 4/15/19       | Handling text strings in JavaScript| Useful string Methods|
+| 4/16/19:      | Useful String Methods |  Arrays  | 
 | 4/17/19:      | Arrays |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
 | 4/15/19:      | tbc |  TBC  |
