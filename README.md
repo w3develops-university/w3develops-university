@@ -13,8 +13,8 @@ Instructions: Every day someone starts a Zoom link and post it in the study grou
 | 4/11/19: | use bracket notation to find the last character in a string | Basic JavaScript: Manipulate Arrays With unshift() |
 | 4/15/19: | Basic JavaScript: Manipulate Arrays With unshift() |    Shopping List |
 | 4/21/19: | Shopping List |  Local Scope & Functions  |
-| 4/22/19: | Local Scope & Functions |  TBC  |
-| 4/15/19: | tbc |  TBC  |
+| 4/22/19: | Local Scope & Functions |  Assignment with a Returned Value |
+| 4/23/19: | tbc |  TBC  |
 | 4/15/19: | tbc |  TBC  |
 
 
